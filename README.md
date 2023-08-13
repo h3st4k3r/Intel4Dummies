@@ -17,10 +17,8 @@ Then, press the check button and watch the results:
 
 You can watch usage video here:
 
-[![]([https://www.youtube.com/watch?v=sOEsdkZjohI](https://www.youtube.com/watch?v=sOEsdkZjohI))]
-[! Intel4dummies: Domain information](https://www.youtube.com/watch?v=sOEsdkZjohI)](https://www.youtube.com/watch?v=sOEsdkZjohI)
+[![Intel4dummies: Domain information](https://img.youtube.com/vi/sOEsdkZjohI/maxresdefault.jpg)](https://www.youtube.com/watch?v=sOEsdkZjohI)
 
-[! https://www.youtube.com/watch?v=sOEsdkZjohI]
 
 ## Note
 
